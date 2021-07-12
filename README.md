@@ -5,9 +5,9 @@ Esse é um programa que reconhece e segue rostos, a partir de uma câmera, utili
 
 | Nome         | Versão <br> recomendada|
 |----------------|------|
-| Python | 3.6+ |
-| OpenCV         | 4.5+ |
-| OpenCV-Contrib | 4.5+ |
+| [Python](https://www.python.org/downloads/) | 3.6+ |
+| [OpenCV](https://pypi.org/project/opencv-python/)         | 4.5+ |
+| [OpenCV-Contrib](https://pypi.org/project/opencv-contrib-python/) | 4.5+ |
 
 ### Configurar Câmera
 
